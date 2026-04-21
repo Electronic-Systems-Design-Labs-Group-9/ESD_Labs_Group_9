@@ -2924,6 +2924,10 @@
 		(uuid "280663c4-d4be-48c3-8597-6a39c78c33be")
 	)
 	(no_connect
+		(at 170.18 81.28)
+		(uuid "2995d29e-cd56-4d5b-b9a5-dfac2b6fa0e3")
+	)
+	(no_connect
 		(at 170.18 99.06)
 		(uuid "2c5719c5-a274-41df-839d-b39ab31568be")
 	)
@@ -2974,10 +2978,6 @@
 	(no_connect
 		(at 170.18 114.3)
 		(uuid "768ae587-c301-4f84-ae7f-6d44d7b57294")
-	)
-	(no_connect
-		(at 170.18 81.28)
-		(uuid "792b9cd6-f445-4388-98b2-8c7d5096ba3c")
 	)
 	(no_connect
 		(at 134.62 111.76)
